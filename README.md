@@ -14,8 +14,6 @@ Video:
 **Nivel de severidad:** Crítico (CVSS v4.0: 9.2)  
 **Vector:** RCE no autenticado (ejecución remota de código)
 
-> **Nota de verificación:** Antes de publicar o difundir este documento, confirma los identificadores CVE, versiones parcheadas y avisos oficiales en php.net y en los boletines de tu proveedor de hosting.
-
 ---
 
 ## 1. Resumen 
