@@ -13,7 +13,7 @@ Video: https://uploadnow.io/f/WpY2vMC
 
 ---
 
-## 1. Resumen ejecutivo
+## 1. Resumen 
 
 El equipo de PHP ha publicado actualizaciones de seguridad de emergencia para corregir dos vulnerabilidades críticas en el núcleo del lenguaje, conocidas en conjunto como **php2shell**. Estas fallas afectan a todas las versiones de PHP que sirven solicitudes web (desde PHP 5.4 hasta las ramas 8.2, 8.3, 8.4 y 8.5) y permiten a un atacante no autenticado ejecutar código arbitrario en el servidor sin necesidad de credenciales ni interacción del usuario.
 
