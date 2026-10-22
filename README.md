@@ -3,7 +3,13 @@
 # 📄 Documento de Seguridad: Vulnerabilidades Críticas en PHP (php2shell) – CVE-2026-109618 y CVE-2026-109619
 
 Video: 
-https://github.com/TH3-ART-F0R-CR4CK1N6/vulnerabilidad-PHP/issues/1#issue-5971470636
+
+
+
+[https://github.com/TH3-ART-F0R-CR4CK1N6/vulnerabilidad-PHP/issues/1#issue-5971470636](https://github.com/TH3-ART-F0R-CR4CK1N6/vulnerabilidad-PHP/issues/1#issue-5971470636)
+
+
+
 
 **Fecha de publicación:** 21 de octubre de 2026  
 **Estado:** Parches disponibles – Actualización urgente recomendada  
